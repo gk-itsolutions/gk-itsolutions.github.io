@@ -1,0 +1,178 @@
+{
+  "Header": {
+    "title": "GK IT Solutions",
+    "paragraph": "GK IT Solutions is a global Information Technology (IT) Services and Solutions company. We offer one stop IT Solutions for Enterprises to effectively utilize the available resources and efficiently manage the operations. Our excellent team of Technology Professionals work with enterprise clients in North America, Latin America, Australia, Europe, Middle East and Asia."
+  },
+  "About": {
+    "paragraph": "GK IT SOLUTIONS is now leading the way in powering next-generation enterprises with its Cloud, Mobility, Big Data and Social Media solutions. Leveraging our technology and vertical knowledge prowess, we partner with our clients to create transformational value that provides sustainable competitive advantage. Our delivery processes and expertise assist you to solve your business' most complex problems, help you reduce risk and attain competitive advantage.",
+    "Why": [
+      "Why we do it? That’s easy! We love what we do. Our mission is to create solutions that stand the test of time, enrich lives, and promote growth. We hope to contribute to a world that is digitally better adapted and give our clients the benefit of well-tailored solutions that help them meet the bottom line."
+    ],
+    "Why2": [
+      "We are a Custom Software Development company that intends to impart cost-effective software development that matches your business needs and timeframe.Mridha Technology has the capabilities and expertise to deliver performance-centric solutions."
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-cubes",
+      "name": "Application Development",
+      "text": "Our application software developers are industry-specific technology experts with many years of combined experience delivering interoperable, scalable, and flexible applications."
+    },
+    {
+      "icon": "fa fa-mobile-phone",
+      "name": "Mobile Applications",
+      "text": "Helping small to large scale businesses to grow their business by developing highly professional, user- friendly native mobile apps for Android and iOS."
+    },
+    {
+      "icon": "fa fa-support",
+      "name": "Maintenance & Support",
+      "text": "GK IT SOlutions Offshore maintenance Services provides reliable and timely support to your company which are very essential for uninterrupted Business operations."
+    },
+    {
+      "icon": "fa fa-check-circle-o",
+      "name": "Quality Assurance",
+      "text": "GK IT Solutions reimagining QA for you, employing an end-to-end ecosystem approach with intelligent and automated QA processes. In so doing, you gain quality and speed to promote faster business and technology change, as well as a better customer experience."
+    },
+    {
+      "icon": "fa fa-yelp",
+      "name": "Remote Resourcing",
+      "text": "our consultants orchestrate the capabilities to truly change the game—across strategy, design, technology and industry/functional knowledge—to deliver insight at speed and solutions at scale."
+    },
+    {
+      "icon": "fa fa-users",
+      "name": "Training",
+      "text": "We offer on job training services, which helps individual to understand work culture and provide efficient deliverables in day to day life"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "10-24/A, Anitha Nilayam, Dilsukhnagar, Hyderabad  - 500060",
+    "phone": "",
+    "email": "info@gkitsolutions.in",
+    "facebook": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Java",
+      "text": "We are a top-class Java development company with a strong as well as committed team that can scale up your business growth. Our extraordinary Java services."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Python",
+      "text": "We are a reliable custom Python software and web development company operating more than 9 successful years. Our best-in-class Python services."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": ".Net",
+      "text": "By using the right technology .NET, GK It Solutions ensures to deliver robust and scalable websites or web applications. Our core ASP.NET application development services."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Node JS",
+      "text": "We are a first-class Node JS development company delivering successful Node JS applications to clients in the USA and all around the world. We are known for our premium NodeJS services"
+    }
+  ]
+}
